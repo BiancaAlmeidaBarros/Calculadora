@@ -1,2 +1,3 @@
 # Calculadora
-Calculadora feita no netbeans. Executa as quatro operações basica entre dois numeros
+Calculadora feita no netbeans. 
+Executa as quatro operações basica entre dois numeros.
